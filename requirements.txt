@@ -1,3 +1,2 @@
 streamlit
-PyQuran
-git+https://github.com/erum-waris/Quran_app_python.git
+pyquran
